@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestExtractIt",
+            "request": "launch",
+            "mainClass": "TestExtractIt"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A_ExtractIt",
+            "request": "launch",
+            "mainClass": "A_ExtractIt"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Foo",
+            "request": "launch",
+            "mainClass": "Foo"
+        }
+    ]
+}
